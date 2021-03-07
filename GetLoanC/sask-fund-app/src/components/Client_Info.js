@@ -38,7 +38,7 @@ const Client_Info = () => {
   return (
     <Fragment>
        {/* Form */}
-    <h1 className="text-center mt-5">Sask Fund Application</h1>
+    <h1 className="text-center mt-5">Get Loan Application</h1>
       <form className="d-flex mt-5" onSubmit={getInfo}>
         <input
           type="text"
